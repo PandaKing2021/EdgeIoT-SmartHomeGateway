@@ -2588,4 +2588,4 @@ DEFAULT_THRESHOLD_DATA = {
 
 **文档版本**: v1.0  
 **最后更新**: 2026年4月6日  
-**维护者**: IoT开发团队
+  **维护者**: PandaKing
