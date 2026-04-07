@@ -1,6 +1,6 @@
 <div align="center">
 
-# Edge Computing IoT Gateway System
+# Edge Computing IoT Smart Home Gateway System
 ### 边缘计算物联网智能网关系统
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com)
 
-基于ESP8266的物联网智能网关系统，实现智能空调、窗帘、门禁等设备的统一管理和控制
+基于ESP8266的物联网智能家居网关系统，实现智能空调、窗帘、门禁等设备的统一管理和控制
 
 [功能特性](#-功能特性) • [系统架构](#-系统架构) • [快速开始](#-快速开始) • [文档](#-文档) • [许可证](#-许可证)
 
@@ -23,7 +23,7 @@ Copyright (c) 2024-2026 Edge Computing IoT Gateway Contributors
 本项目采用 [MIT License](LICENSE) 开源协议。您可以自由地使用、修改、分发本软件，但需保留原始版权声明和许可证副本。
 
 **核心条款**：
-- ✅ 商业用途允许
+- ✅ 教育用途允许
 - ✅ 修改允许
 - ✅ 分发允许
 - ✅ 私人使用允许
@@ -290,17 +290,6 @@ python Python/scripts/simulator_device.py
 python Python/scripts/simulator_android.py
 ```
 
-### 测试覆盖率
-
-- ✅ 配置文件验证
-- ✅ 端口配置一致性
-- ✅ 设备通信测试
-- ✅ Android通信测试
-- ✅ 数据库连接测试
-- ✅ 异常处理测试
-
----
-
 ## 🤝 贡献指南
 
 我们欢迎所有形式的贡献！
@@ -386,9 +375,8 @@ SOFTWARE.
 
 ## 📞 联系方式
 
-- **问题反馈** - 请使用 [GitHub Issues](https://github.com/yourusername/edge-computing-iot-gateway/issues)
+- **问题反馈** - 请发送邮件至 pandaking_shanghai@outlook.com
 - **功能建议** - 欢迎提交 Feature Request
-- **安全漏洞** - 请发送邮件至 security@example.com
 
 ---
 
